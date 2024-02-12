@@ -1,4 +1,4 @@
-  Voice over Internet Protocol (VoIP) adalah teknologi yang memungkinkan pengiriman suara dan data multimedia lainnya melalui jaringan internet menggunakan protokol IP. Berikut ini adalah pengertian, fungsi, dan ciri-ciri VoIP:
+Voice over Internet Protocol (VoIP) adalah teknologi yang memungkinkan pengiriman suara dan data multimedia lainnya melalui jaringan internet menggunakan protokol IP. Berikut ini adalah pengertian, fungsi, dan ciri-ciri VoIP:
       Pengertian VoIP:
 VoIP adalah teknologi yang memungkinkan pengguna untuk melakukan panggilan suara, video, dan multimedia lainnya melalui internet menggunakan protokol IP. Ini memungkinkan konversi suara analog menjadi data digital, yang kemudian dikirimkan melalui jaringan internet.
       Fungsi-fungsi VoIP:
